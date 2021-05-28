@@ -1,0 +1,5 @@
+C:\Users\timot\Documents\University_Classes\3000 Level Courses\COIS 3020H\Assignment 2\Assignment2_Q1\Assignment2_Q2_Ternary\Assignment2_Q2_Ternary\obj\x86\Debug\Assignment2_Q2_Ternary.csprojResolveAssemblyReference.cache
+C:\Users\timot\Documents\University_Classes\3000 Level Courses\COIS 3020H\Assignment 2\Assignment2_Q1\Assignment2_Q2_Ternary\Assignment2_Q2_Ternary\bin\Debug\Assignment2_Q2_Ternary.exe
+C:\Users\timot\Documents\University_Classes\3000 Level Courses\COIS 3020H\Assignment 2\Assignment2_Q1\Assignment2_Q2_Ternary\Assignment2_Q2_Ternary\bin\Debug\Assignment2_Q2_Ternary.pdb
+C:\Users\timot\Documents\University_Classes\3000 Level Courses\COIS 3020H\Assignment 2\Assignment2_Q1\Assignment2_Q2_Ternary\Assignment2_Q2_Ternary\obj\x86\Debug\Assignment2_Q2_Ternary.exe
+C:\Users\timot\Documents\University_Classes\3000 Level Courses\COIS 3020H\Assignment 2\Assignment2_Q1\Assignment2_Q2_Ternary\Assignment2_Q2_Ternary\obj\x86\Debug\Assignment2_Q2_Ternary.pdb
