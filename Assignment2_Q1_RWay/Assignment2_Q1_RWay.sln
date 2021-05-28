@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2_Q1_RWay", "Assignment2_Q1_RWay\Assignment2_Q1_RWay.csproj", "{7EAC2979-42C9-4144-857D-7176EBC23842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EAC2979-42C9-4144-857D-7176EBC23842}.Debug|x86.ActiveCfg = Debug|x86
+		{7EAC2979-42C9-4144-857D-7176EBC23842}.Debug|x86.Build.0 = Debug|x86
+		{7EAC2979-42C9-4144-857D-7176EBC23842}.Release|x86.ActiveCfg = Release|x86
+		{7EAC2979-42C9-4144-857D-7176EBC23842}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

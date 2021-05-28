@@ -1,0 +1,9 @@
+C:\Users\timot\AppData\Local\Temporary Projects\Assignment2_Q1_RWay\bin\Debug\Assignment2_Q1_RWay.exe
+C:\Users\timot\AppData\Local\Temporary Projects\Assignment2_Q1_RWay\bin\Debug\Assignment2_Q1_RWay.pdb
+C:\Users\timot\AppData\Local\Temporary Projects\Assignment2_Q1_RWay\obj\x86\Debug\Assignment2_Q1_RWay.exe
+C:\Users\timot\AppData\Local\Temporary Projects\Assignment2_Q1_RWay\obj\x86\Debug\Assignment2_Q1_RWay.pdb
+C:\Users\timot\Documents\University_Classes\3000 Level Courses\COIS 3020H\Assignment 2\Assignment2_Q1\Assignment2_Q1_RWay\Assignment2_Q1_RWay\obj\x86\Debug\Assignment2_Q1_RWay.exe
+C:\Users\timot\Documents\University_Classes\3000 Level Courses\COIS 3020H\Assignment 2\Assignment2_Q1\Assignment2_Q1_RWay\Assignment2_Q1_RWay\obj\x86\Debug\Assignment2_Q1_RWay.pdb
+C:\Users\timot\Documents\University_Classes\3000 Level Courses\COIS 3020H\Assignment 2\Assignment2_Q1\Assignment2_Q1_RWay\Assignment2_Q1_RWay\bin\Debug\Assignment2_Q1_RWay.exe
+C:\Users\timot\Documents\University_Classes\3000 Level Courses\COIS 3020H\Assignment 2\Assignment2_Q1\Assignment2_Q1_RWay\Assignment2_Q1_RWay\bin\Debug\Assignment2_Q1_RWay.pdb
+C:\Users\timot\Documents\University_Classes\3000 Level Courses\COIS 3020H\Assignment 2\Assignment2_Q1\Assignment2_Q1_RWay\Assignment2_Q1_RWay\obj\x86\Debug\Assignment2_Q1_RWay.csprojResolveAssemblyReference.cache
